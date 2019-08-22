@@ -61,9 +61,7 @@ console.log(!obj); // true
 */
 
 /* Conditional Operators ***********************************************************
-
 */
-
 console.log((6 > 5) ? true : false); // true
 
 /* Assignment Operators ***********************************************************
