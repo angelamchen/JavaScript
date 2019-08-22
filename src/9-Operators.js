@@ -67,6 +67,9 @@ console.log(!obj); // true
 console.log((6 > 5) ? true : false); // true
 
 /* Assignment Operators ***********************************************************
-
+    - +=, -=, *=, /=, %=
+    - <<= "shift left operator", will take the var and shift its bits to the left 1 bit
+    - >>= shift bits to the right
+    - >>> shift bits to the right but keep the sign
 */
 
